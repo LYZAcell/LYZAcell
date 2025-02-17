@@ -1,2 +1,2 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7B21A&width=435&lines=Hi%2C+I'm+Ga-yeong)](https://git.io/typing-svg)
+## Hi, I'm Ga-yeong 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
