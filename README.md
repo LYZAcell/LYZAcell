@@ -1,2 +1,2 @@
-## Hi, I'm Ga-yeong 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gayeong'sRepo&fontSize=90)
+## Hi, I'm Ga-yeong👋
+- 프론트엔드 개발자를 꿈꾸는 이가영의 레포지토리입니다.
