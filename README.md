@@ -3,6 +3,7 @@
 ### Data
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- 구현 툴
 ![](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ### Web
