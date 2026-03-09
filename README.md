@@ -22,15 +22,14 @@
     - 가족 간 일정 공유 및 실시간 업데이트 인터페이스 구현
     - 사용자 친화적인 캘린더 UI 및 대시보드 레이아웃 설계
 
-#### 2. 디지털하나로 활동 (2025.03-2025.06)
+#### 2. 💚 디지털하나로 활동 (2025.03-2025.06)
 - 디지털하나로 데이터분석 및 서비스기획 7기
 - 데이터 분석: Python, Pandas, Matplotlib
 - 크롤링: Selenium, BeautifulSoup 등
 - 대표 프로젝트: 요금제 개선프로젝트 L+/L-
 - Link: https://www.canva.com/design/DAG3GU2tdrA/tFDaA57idOUfwXbjJSy1Pg/edit?utm_content=DAG3GU2tdrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-- 
 
-#### 3. 데이터 분석 스터디 (2023-)
+#### 3. ✏️ 데이터 분석 스터디 (2023-)
 - WIX, 머신러닝, 판다스, Folium 기초 등 데이터 스터디 목록
 - Link: [GitHub Repository](https://github.com/LYZAcell/data_study)
 
