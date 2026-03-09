@@ -27,7 +27,7 @@
 - 데이터 분석: Python, Pandas, Matplotlib
 - 크롤링: Selenium, BeautifulSoup 등
 - 대표 프로젝트: 요금제 개선프로젝트 L+/L-
-- Link: https://www.canva.com/design/DAG3GU2tdrA/tFDaA57idOUfwXbjJSy1Pg/edit?utm_content=DAG3GU2tdrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Link: [분석결과 및 발표 PPT](https://www.canva.com/design/DAG3GU2tdrA/tFDaA57idOUfwXbjJSy1Pg/edit?utm_content=DAG3GU2tdrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 3. ✏️ 데이터 분석 스터디 (2023-)
 - WIX, 머신러닝, 판다스, Folium 기초 등 데이터 스터디 목록
