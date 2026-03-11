@@ -15,7 +15,7 @@
 ## 🚀 주요 프로젝트
 
 #### 1. 🗓️ 요즘가족 일정관리 서비스 'FLAN' (2024.12)
-- 2024 멋쟁이사자처럼 간톤 본선 진출작
+- 2024 멋쟁이사자처럼 간지톤 본선 진출작
 - Link: [GitHub Repository](https://github.com/2024GanzithonPYTHON/6_Ganzi_Frontend)
 - Role: Front-End Development
 - Key Features:
@@ -39,4 +39,4 @@
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Language
-Korean, English, Portugues, Spanish
+Korean, English, Portuguese, Spanish
